@@ -110,7 +110,7 @@ def changing_alan
 		 alan_kay = programmer_hash[:alan_kay]
 		 alan_kay[:known_for] = "GUI"
 
-		 
+
 
 
 end
