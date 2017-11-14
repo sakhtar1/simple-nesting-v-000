@@ -111,6 +111,8 @@ def changing_alan
 		 alan_kay_is_known_for = alan_kay[:known_for]
 		 alan_kay_is_known_for << alans_new_info
 
+		 puts programmer_hash
+
 
 
 
@@ -136,6 +138,7 @@ def adding_to_dennis
 		 dennis_ritchie = programmer_hash[:dennis_ritchie]
 		 dennis_ritchies_language = dennis_ritchie[:languages]
 		 dennis_ritchies_language << ["Assembly"]
+		 puts programmer_hash
 
 
 end
