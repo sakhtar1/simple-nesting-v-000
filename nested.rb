@@ -59,7 +59,7 @@ def dennis_ritchies_language
         }
      }
 		 dennis_ritchie = programmer_hash[:dennis_ritchie]
-		 return dennis_ritchie[:languages]
+		 return dennis_ritchie[:languages].split
 end
 
 def adding_matz
