@@ -110,7 +110,7 @@ def changing_alan
 		 alan_kay = programmer_hash[:alan_kay]
 		 alan_kay[:known_for] = "GUI"
 
-		 return alan_kay[:known_for]
+		 
 
 
 end
@@ -134,6 +134,6 @@ def adding_to_dennis
 
 		 dennis_ritchie = programmer_hash[:dennis_ritchie]
 		 dennis_ritchie [:languages] = "Assembly"
-		 return dennis_ritchie[:languages]
+		
 
 end
